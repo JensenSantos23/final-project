@@ -1,0 +1,38 @@
+.SignUpContainer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 10%;
+    color: darkred;
+}
+
+.LogInContainer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 10%;
+    color: darkred;
+}
+
+input {
+    text-align: center;
+    padding: 7px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 8px;
+}
+
+.btn {
+    background-color: ghostwhite;
+    color: teal;
+    border: black;
+}
+.loginForm {
+    text-align:center;
+}
+
+#logintoadd {
+    margin-left: auto;
+    margin-top:  60px;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+}
